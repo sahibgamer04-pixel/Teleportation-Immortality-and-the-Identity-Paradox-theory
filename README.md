@@ -88,3 +88,5 @@ The unresolved question is not technological, but philosophical:
 Does identity depend on physical structure, or on uninterrupted subjective experience?
 Publication Note
 This document is published as a prior public thought record on Wednesday, 14 January 2026, to establish the timeline of this conceptual framework.
+
+© 2026 Arhan Gour. Published under Creative Commons Attribution 4.0 International License.
